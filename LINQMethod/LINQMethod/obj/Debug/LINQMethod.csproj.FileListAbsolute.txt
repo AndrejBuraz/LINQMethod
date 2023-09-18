@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\LINQMethod\LINQMethod\bin\Debug\LINQMethod.exe.config
+C:\Users\ucenik\source\repos\LINQMethod\LINQMethod\bin\Debug\LINQMethod.exe
+C:\Users\ucenik\source\repos\LINQMethod\LINQMethod\bin\Debug\LINQMethod.pdb
+C:\Users\ucenik\source\repos\LINQMethod\LINQMethod\obj\Debug\LINQMethod.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\LINQMethod\LINQMethod\obj\Debug\LINQMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\LINQMethod\LINQMethod\obj\Debug\LINQMethod.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\LINQMethod\LINQMethod\obj\Debug\LINQMethod.exe
+C:\Users\ucenik\source\repos\LINQMethod\LINQMethod\obj\Debug\LINQMethod.pdb
